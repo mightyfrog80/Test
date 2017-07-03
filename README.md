@@ -1,5 +1,3 @@
 # Test
 Trying to learn how to git.
-boom shakalaka
-who am i
-yet another change
+oh this is truly complex beyond my wildest imagination
